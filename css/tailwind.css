@@ -1,0 +1,9 @@
+.hello{
+    color: blue;
+}
+/* base layer */
+@tailwind base;
+/* components layer */
+@tailwind components;
+/* utilities layer */
+@tailwind utilities;
